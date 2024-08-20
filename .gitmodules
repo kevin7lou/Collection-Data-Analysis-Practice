@@ -1,0 +1,27 @@
+[submodule "pandas-head-to-tail"]
+	path = pandas-head-to-tail
+	url = https://github.com/TomAugspurger/pandas-head-to-tail
+[submodule "data-analysis"]
+	path = data-analysis
+	url = https://github.com/zjdian/data-analysis
+[submodule "pydata-notebook"]
+	path = pydata-notebook
+	url = https://github.com/Jackiexiao/pydata-notebook
+[submodule "Statistics-and-Data-Analysis-in-Python"]
+	path = Statistics-and-Data-Analysis-in-Python
+	url = https://github.com/Zorro-Lin-7/Statistics-and-Data-Analysis-in-Python
+[submodule "data-science-jhu-coursera"]
+	path = data-science-jhu-coursera
+	url = https://github.com/mGalarnyk/datasciencecoursera
+[submodule "Learning-Data-Mining-with-Python-Second-Edition"]
+	path = Learning-Data-Mining-with-Python-Second-Edition
+	url = https://github.com/PacktPublishing/Learning-Data-Mining-with-Python-Second-Edition
+[submodule "practical-statistics-for-data-scientists"]
+	path = practical-statistics-for-data-scientists
+	url = https://github.com/gedeck/practical-statistics-for-data-scientists
+[submodule "statistical-analysis-python-tutorial"]
+	path = statistical-analysis-python-tutorial
+	url = https://github.com/fonnesbeck/statistical-analysis-python-tutorial
+[submodule "Python_Notes"]
+	path = Python_Notes
+	url = https://github.com/wanzhenchn/Python_Notes
